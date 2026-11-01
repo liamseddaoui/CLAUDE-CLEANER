@@ -166,6 +166,6 @@ Plugins       tauri-plugin-fs · tauri-plugin-shell · tauri-plugin-opener
 
 <div align="center">
 
-Fait avec soin par **Liam** — License MIT — voir [LICENSE](LICENSE)
+**Author:** [Liam Seddaoui](https://liamseddaoui.com), AI Platform Engineer · LLMOps · Agents · Build & Run — voir [LICENSE](LICENSE)
 
 </div>
